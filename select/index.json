@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "できるだけ",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-04-03T01:49:51.190170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "できるだけ",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/01_できるだけ_嵐.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "できるだけ",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_できるだけ_カネコアヤノ.txt"
+    }
+  ]
+}
